@@ -1,0 +1,20 @@
+# Documentación local
+docs/
+
+# Datos y artefactos pesados (no versionar en Git)
+data/
+models/
+submissions/
+experiments/
+retrieval_index.json
+*.zip
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
